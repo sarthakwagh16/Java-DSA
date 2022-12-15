@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="882c5c62-482a-4635-b23e-4b514eb7f2ac" name="Changes" comment="check array sorted or not">
-      <change afterPath="$PROJECT_DIR$/src/Arrays/_2d_array.java" afterDir="false" />
+    <list default="true" id="882c5c62-482a-4635-b23e-4b514eb7f2ac" name="Changes" comment="2D array intro">
+      <change afterPath="$PROJECT_DIR$/src/Arrays/_2d_array_linearSearch.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -37,7 +37,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application._2d_array">
+  <component name="RunManager" selected="Application._2d_array_linearSearch">
     <configuration name="_2d_array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Arrays._2d_array" />
       <module name="Complete DSA Using Java from Zero to Hero" />
@@ -51,8 +51,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="array_intro" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Arrays.array_intro" />
+    <configuration name="_2d_array_linearSearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Arrays._2d_array_linearSearch" />
       <module name="Complete DSA Using Java from Zero to Hero" />
       <extension name="coverage">
         <pattern>
@@ -105,11 +105,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application._2d_array_linearSearch" />
         <item itemvalue="Application._2d_array" />
         <item itemvalue="Application.check_arr_sorted_or_not" />
         <item itemvalue="Application.max_min" />
         <item itemvalue="Application.linear_search_array" />
-        <item itemvalue="Application.array_intro" />
       </list>
     </recent_temporary>
   </component>
@@ -157,7 +157,14 @@
       <option name="project" value="LOCAL" />
       <updated>1670850102958</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="2D array intro">
+      <created>1671103757844</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1671103757844</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -177,6 +184,7 @@
     <MESSAGE value="array: linear search" />
     <MESSAGE value="max and min number in array" />
     <MESSAGE value="check array sorted or not" />
-    <option name="LAST_COMMIT_MESSAGE" value="check array sorted or not" />
+    <MESSAGE value="2D array intro" />
+    <option name="LAST_COMMIT_MESSAGE" value="2D array intro" />
   </component>
 </project>
