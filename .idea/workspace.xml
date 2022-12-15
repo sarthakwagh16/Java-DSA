@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="882c5c62-482a-4635-b23e-4b514eb7f2ac" name="Changes" comment="max and min number in array">
-      <change afterPath="$PROJECT_DIR$/src/Arrays/check_arr_sorted_or_not.java" afterDir="false" />
+    <list default="true" id="882c5c62-482a-4635-b23e-4b514eb7f2ac" name="Changes" comment="check array sorted or not">
+      <change afterPath="$PROJECT_DIR$/src/Arrays/_2d_array.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -31,16 +31,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.check_arr_sorted_or_not">
-    <configuration name="Welcome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Welcome" />
+}</component>
+  <component name="RunManager" selected="Application._2d_array">
+    <configuration name="_2d_array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Arrays._2d_array" />
       <module name="Complete DSA Using Java from Zero to Hero" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Arrays.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -99,11 +105,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application._2d_array" />
         <item itemvalue="Application.check_arr_sorted_or_not" />
         <item itemvalue="Application.max_min" />
         <item itemvalue="Application.linear_search_array" />
         <item itemvalue="Application.array_intro" />
-        <item itemvalue="Application.Welcome" />
       </list>
     </recent_temporary>
   </component>
@@ -144,7 +150,14 @@
       <option name="project" value="LOCAL" />
       <updated>1670849660253</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="check array sorted or not">
+      <created>1670850102958</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1670850102958</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -163,6 +176,7 @@
     <MESSAGE value="array declaration, input and display" />
     <MESSAGE value="array: linear search" />
     <MESSAGE value="max and min number in array" />
-    <option name="LAST_COMMIT_MESSAGE" value="max and min number in array" />
+    <MESSAGE value="check array sorted or not" />
+    <option name="LAST_COMMIT_MESSAGE" value="check array sorted or not" />
   </component>
 </project>
