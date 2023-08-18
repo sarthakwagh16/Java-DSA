@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="882c5c62-482a-4635-b23e-4b514eb7f2ac" name="Changes" comment="2D array: transpose">
-      <change afterPath="$PROJECT_DIR$/src/Arrays/diff_eleSum_digitSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Arrays/remove_duplicates.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Arrays/shuffle_array.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Arrays/string_arr.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LinkedList/LL_insertion_deletion.java" afterDir="false" />
+    <list default="true" id="882c5c62-482a-4635-b23e-4b514eb7f2ac" name="Changes" comment="array">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -35,12 +30,13 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "D:/Java Tutorials"
   }
-}</component>
+}]]></component>
   <component name="RunManager" selected="Application.LL_insertion_deletion">
     <configuration name="LL_insertion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="LinkedList.LL_insertion" />
@@ -182,7 +178,14 @@
       <option name="project" value="LOCAL" />
       <updated>1671104427693</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="LL insert and delete">
+      <created>1675820097899</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1675820097899</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -205,6 +208,7 @@
     <MESSAGE value="2D array intro" />
     <MESSAGE value="2D array: linear search" />
     <MESSAGE value="2D array: transpose" />
-    <option name="LAST_COMMIT_MESSAGE" value="2D array: transpose" />
+    <MESSAGE value="LL insert and delete" />
+    <option name="LAST_COMMIT_MESSAGE" value="LL insert and delete" />
   </component>
 </project>
